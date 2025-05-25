@@ -14,7 +14,7 @@ images/erd/addimagetoreadme.PNG
 > ![add image to readme](images/erd/addimagetoreadme.PNG)
 
 level 1 PDB/דיאגרמה וסכמה/CardManagement ERD.png
-> ![air bnb](level 1 PDB/דיאגרמה וסכמה/CardManagement ERD.png)
+> ![erd](level 1 PDB/דיאגרמה וסכמה/CardManagement ERD.png)
 
 images/erd/one.jpg
 > ![add_image_one.png](images/erd/one.jpg)
