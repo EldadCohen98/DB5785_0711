@@ -1,0 +1,7 @@
+id,description
+1,Per Transaction Limit
+2,ATM Withdrawal Limit
+3,Insufficient Funds Block
+4,Online Purchase Limit
+5,Blocked Overdraft
+6,Payments limit
