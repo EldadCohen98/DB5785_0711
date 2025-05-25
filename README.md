@@ -13,8 +13,8 @@ This workshop introduces key database concepts and provides hands-on practice in
 images/erd/addimagetoreadme.PNG
 > ![add image to readme](images/erd/addimagetoreadme.PNG)
 
-images/erd/airbnb.PNG
-> ![air bnb](images/erd/erd_airbnb.png)
+level 1 PDB/דיאגרמה וסכמה/CardManagement ERD.png
+> ![air bnb](level 1 PDB/דיאגרמה וסכמה/CardManagement ERD.png)
 
 images/erd/one.jpg
 > ![add_image_one.png](images/erd/one.jpg)
