@@ -21,7 +21,7 @@ This project demonstrates a relational database system for managing credit cards
 ![ERD](images/ERD/CardManagement_ERD.png)
 
 ### 🧱 Data Structure Diagram (DSD)
-![DSD](images/DSD/CardManagement_DSD.png)
+![CardManagement_DSD.png](https://github.com/EldadCohen98/DB5785_0711/blob/b0074d8c6930a1bbc4e3074b27293475665faccc/ERD_DSD/CardManagement%20ERD.png)
 
 ---
 
